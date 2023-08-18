@@ -1,8 +1,8 @@
 ### Hello!!! My name is Luca
 <div align="center">
   <a href="https://github.com/pseudomus">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pseudomus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudomus&layout=compact&height&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pseudomus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&PAT_1"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudomus&layout=compact&height&theme=radical&PAT_1"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/c.svg">
